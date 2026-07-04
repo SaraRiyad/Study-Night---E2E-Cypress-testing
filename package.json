@@ -1,0 +1,29 @@
+{
+    "name": "study-night",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "This folder should contain the scaffolded project files to get a student started on their project. This repo will be added to the Classroom for students to use, so please do not have any solutions in this folder.",
+    "scripts": {
+        "test": "mocha",
+        "gulp": "gulp"
+    },
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+        "@eslint/js": "^9.39.1",
+        "chai": "^6.2.1",
+        "cypress": "^15.7.0",
+        "eslint": "^9.39.1",
+        "eslint-plugin-cypress": "^5.2.0",
+        "globals": "^16.5.0",
+        "gulp": "^5.0.1",
+        "gulp-cli": "^3.1.0",
+        "gulp-shell": "^0.6.3",
+        "mocha": "^11.7.5",
+        "parcel": "^2.16.1"
+    },
+    "prettier": {
+        "tabWidth": 4,
+        "semi": true
+    }
+}
